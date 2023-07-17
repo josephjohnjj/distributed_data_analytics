@@ -1,10 +1,9 @@
-Welcome to Lumache's documentation!
+Distributed Data Analytics in Python
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This workshop will provide an introduction on how we can use Python libraries for distributed data analytics. 
+Familiarity with Python is required.
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
