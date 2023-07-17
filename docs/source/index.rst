@@ -14,6 +14,13 @@ familiarity with Python is required.
    :caption: Contents:
 
 
+=================
+Distributed Dask
+=================
+
+=================
+Dask-ML
+=================
 
 Indices and tables
 ==================
