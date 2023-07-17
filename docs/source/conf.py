@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Distributed Data Analytics in Python'
+copyright = '2023, Joseph John'
+author = 'Joseph John'
 
 release = '0.1'
 version = '0.1.0'
